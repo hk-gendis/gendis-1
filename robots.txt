@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hk-gendis.github.io/gendis-1/sitemap.xml
